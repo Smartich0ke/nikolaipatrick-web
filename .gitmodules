@@ -1,0 +1,3 @@
+[submodule "themes/ferrite"]
+	path = themes/ferrite
+	url = https://github.com/Smartich0ke/ferrite.git
